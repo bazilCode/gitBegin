@@ -1,3 +1,5 @@
-console.log(`I'm the first `);
-//MASTER
-console.log("from Master");
+const index = {
+    a:"masterChild",
+    b:"mergeTask1",
+    c:"mergeTask2"
+}
