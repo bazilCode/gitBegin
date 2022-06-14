@@ -1,3 +1,2 @@
-console.log(`I'm the first `);
-//MASTER
-console.log("from Master");
+//MASTER CHILD
+console.log('MASTER_CHILD');
