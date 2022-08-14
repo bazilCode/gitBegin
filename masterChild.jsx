@@ -1,7 +1,7 @@
 function masterChild(){
         return(
             <div>
-                MASTERCHILD
+                MASTERCHILD {STASH}
             </div>
         )
     }
